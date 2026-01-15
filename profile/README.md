@@ -1,4 +1,4 @@
-# Welcome to the GitHub footprint for the Smithsonian Institution (SI)
+# Welcome to the GitHub footprint for the Smithsonian Institution
 
 The Smithsonian Institution was established by an act of Congress in 1846 as an independent federal trust instrumentality, a unique public-private partnership that has proven its value as a cultural and scientific resource for more than 175 years.  
 
